@@ -16,7 +16,7 @@ No need for additional installations.
 
 2. Run following command
 ```
-    python3 fetch_open_port.py
+    python3 main.py
 ```
 
 3. Once script is running, you can write any website you want, and it will print all open ports in range 50-500.
